@@ -1,4 +1,4 @@
 ---
-title: Recording is on!
+title: Coder, Soldier, Investor
 ---
 
