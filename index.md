@@ -1,4 +1,4 @@
 ---
-title: Coder, Soldier, Investor
+title: Coder,  Soldier,  Investor
 ---
 
